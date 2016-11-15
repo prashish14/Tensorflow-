@@ -1,0 +1,2 @@
+# Tensorflow-
+Working with Tensorflow is fun. I started it as a job at SSR Lab but now I am proficient . It is one of the most powerful framework for deep learning and Distributed computing.With the release of TensorFlow, innovation in artificial intelligence will dramatically increase. On top of that, we will see many new platforms made specifically for TensorFlow. If you are at all interested in machine learning, I suggest you start hacking on top of TensorFlow
